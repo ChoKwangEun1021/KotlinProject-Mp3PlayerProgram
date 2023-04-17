@@ -13,4 +13,4 @@ Creating a mp3 player program using Kotlin and SQLite.
 | Github | https://github.com/ChoKwangEun1021/KotlinProject-Mp3PlayerProgram |
 
 ## Periods of Development
-2023-04-12(Wed) ~ 2022-04-16(Sun)
+2023-04-12(Wed) ~ 2023-04-16(Sun)
